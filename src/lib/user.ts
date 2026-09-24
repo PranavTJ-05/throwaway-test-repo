@@ -12,3 +12,5 @@ export async function findUser(users: { id: string }[], id: string) {
 }
 
 // trigger a fresh review after Gemini capacity recovered
+
+// retrigger after Gemini recovered
